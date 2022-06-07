@@ -1,6 +1,29 @@
-# redux-flux-ecommerce-rocketshoes
+<div align="center" >
+  <img src="logo.png" width="200">
+</div>
 
-Redux cart ecommerce simulated with architecture flux and management reducers. Project by @rocketseat.
+React and Redux cart with pure components aind comunicate with codeby API.
+
+Link: https://react-readux-mycartby.vercel.app/
 
 
-![alt text](https://raw.githubusercontent.com/thurdelima/redux-flux-ecommerce-rocketshoes/master/ecommerce_rocketshoes.gif)
+<div align="center" >
+  <img src="mycarby.gif">
+</div>
+
+
+### Layout and Components Responsible
+
+<div align="center" >
+  <img src="res.gif">
+</div>
+
+
+<br/>
+
+<h4 align="center">
+  ---
+
+Made with ♥   by Arthur Lima :wave: [Get in touch!](https://www.linkedin.com/in/arthur-lima-294ab0103/)
+</h4>
+
